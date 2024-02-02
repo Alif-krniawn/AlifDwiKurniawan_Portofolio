@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alif Dwi Kurniawan</title>
+	<atom:link href="https://alif-krniawn.github.io/AlifDwiKurniawan_Portofolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alif-krniawn.github.io/AlifDwiKurniawan_Portofolio</link>
+	<description></description>
+	<lastBuildDate>Sun, 19 Nov 2023 19:09:11 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Halo dunia!</title>
+		<link>https://alif-krniawn.github.io/AlifDwiKurniawan_Portofolio/halo-dunia/</link>
+					<comments>https://alif-krniawn.github.io/AlifDwiKurniawan_Portofolio/halo-dunia/#comments</comments>
+		
+		<dc:creator><![CDATA[AlifDwiKurniawan]]></dc:creator>
+		<pubDate>Sun, 19 Nov 2023 19:09:11 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">https://alif-krniawn.github.io/AlifDwiKurniawan_Portofolio/?p=1</guid>
+
+					<description><![CDATA[Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!]]></description>
+										<content:encoded><![CDATA[
+<p>Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://alif-krniawn.github.io/AlifDwiKurniawan_Portofolio/halo-dunia/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
